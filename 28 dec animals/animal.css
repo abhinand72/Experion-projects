@@ -1,0 +1,148 @@
+body{
+    background-color: azure;
+}
+.first{
+    background-color: rgb(52, 52, 40);
+    width: 25vh ;
+    height: 40px;
+    color: aliceblue;
+    padding-left: 30px;
+    margin-top: 20px;
+    border-radius: 15%;
+    padding-top: 20px;
+    font-size: larger;
+    position: absolute;
+    left: 1050px;
+}
+.second{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 40px;
+    color: aliceblue;
+    padding-left: 30px;
+    margin-top: 60px;
+    border-radius: 15%;
+    padding-top: 20px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 600px;
+
+}
+.third{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 1000px;
+    border-radius: 15%;
+    margin-top: 90px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
+.fourth{
+    background-color: rgb(52, 52, 40);
+    width: 5vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 30px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 40px;
+    border-radius: 15%;
+    margin-top: 90px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
+.fifth{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 650px;
+    border-radius: 15%;
+    margin-top: 200px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
+.sixth{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 50px;
+    border-radius: 15%;
+    margin-top: 500px;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+.seventh{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 200px;
+    border-radius: 15%;
+    margin-top: 500px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
+.eight{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 900px;
+    border-radius: 15%;
+    margin-top: 400px;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+.nineth{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 700px;
+    border-radius: 15%;
+    margin-top: 500px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
+.tenth{
+    background-color: rgb(52, 52, 40);
+    width: 10vh ;
+    height: 50px;
+    color: aliceblue;
+    padding-left: 40px;
+    font-size: larger;
+    position: absolute;
+    margin-left: 1050px;
+    border-radius: 15%;
+    margin-top: 500px;
+    padding-top: 15px;
+    padding-right: 30px;
+
+}
