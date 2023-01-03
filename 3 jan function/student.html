@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>email</th>
+        </tr>
+      </thead>
+      <tbody id="content"></tbody>
+    </table>
+    <script>
+          const users = [
+              {
+                  name : 'user 1',
+                  email : 'user@mail.com'
+              },
+              {
+                  name : 'user 2',
+                  email : 'user@gmail.com'
+              }
+
+      ];
+      const target = document.getElementById('content');
+      users.forEach(user=>{
+        const row = <tr>
+            <td>$(user.name)</td>
+            <td>$(user.email)</td>
+            </tr>;
+            target.innerHTML += row;
+            
+      });
+
+    </script>
+  </body>
+</html>
